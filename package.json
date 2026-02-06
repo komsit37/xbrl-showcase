@@ -7,7 +7,8 @@
     "node": ">=18"
   },
   "scripts": {
-    "start": "node src/edgar-ixbrl-income.js"
+    "is": "node src/edgar-ixbrl-income.js",
+    "toc": "node src/edgar-ixbrl-toc.js"
   },
   "dependencies": {
     "linkedom": "0.18.5"
